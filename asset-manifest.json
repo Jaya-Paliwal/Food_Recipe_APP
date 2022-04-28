@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Food_Recipe_APP/static/css/main.dfca92cc.css",
+    "main.js": "/Food_Recipe_APP/static/js/main.643cecab.js",
+    "index.html": "/Food_Recipe_APP/index.html",
+    "main.dfca92cc.css.map": "/Food_Recipe_APP/static/css/main.dfca92cc.css.map",
+    "main.643cecab.js.map": "/Food_Recipe_APP/static/js/main.643cecab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfca92cc.css",
+    "static/js/main.643cecab.js"
+  ]
+}
